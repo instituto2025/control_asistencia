@@ -67,5 +67,5 @@ Tabla de tareas del segundo sprint con sus respectivos encargados:
 Actualizando Sistema
 1. Cambiar SHA1 a hash de bcrypt. contraseña no segura
 2. Cambié el background-color inline a la clase bg-light de Bootstrap para un color de fondo neutro y más moderno.
-
+// Se subio el pryecto a github basandome en https://www.youtube.com/watch?v=eQMcIGVc8N0
 
