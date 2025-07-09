@@ -63,6 +63,9 @@ Tabla de tareas del segundo sprint con sus respectivos encargados:
 |||Junior Mauricio Villalta Flores||
 |||Cristian Alexander Guardado Escobar||
 
-
+## Sprint 3
+Actualizando Sistema
+1. Cambiar SHA1 a hash de bcrypt. contraseña no segura
+2. Cambié el background-color inline a la clase bg-light de Bootstrap para un color de fondo neutro y más moderno.
 
 
